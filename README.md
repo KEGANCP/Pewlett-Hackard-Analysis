@@ -14,3 +14,12 @@ The below shows code created to generate a table showing all unique employees el
 Utilizing the data from the above, we were able to generate a table showing a count of total employees eligible for retirement by department.
 (retire_by_title)
 
+The below image will provide the code we utilized to gather our information necessary to identify those employees eligible for the new mentorship program.
+(mentor_code)
+
+Utilizing the above code, we were able to gather all the pertinent information in a table, as shown below.
+(mentor_table)
+
+----
+## Summary of Analysis
+We identified over 90,000 employees who are currently eligible for retirement, but only 1,549 employees eligible for the mentorship program. Reviewing the retirees by title table mentioned above, we can identify a large majority of these potential retiree's within senior roles (Senior Engineer & Senior Staff). Now that this information in known, I would recommend geting ahead of this potentially large loss of company experience and knowledge by looking to provide another program to hire & train employees to better plan and avoid a large turnover in such crucial roles. Whilst we are planning ahead, we may also want to broaden our eligibility for the mentorship program, it would be beneficial for the company to get ahead of our future retiree's and rataining as much knowledge as possible. 1,549 employees would be a drop in the bucket now that we know our total of 90,398 potential retirees. 
