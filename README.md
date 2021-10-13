@@ -9,16 +9,20 @@ To get this requested data we utilized several dataset provided by PH, with thes
 -----
 ## Project Results
 The below shows code created to generate a table showing all unique employees eligible for retirement.
-(Unique_code)
+
+![This is an image](https://github.com/KEGANCP/Pewlett-Hackard-Analysis/blob/main/Resources/unique_code.png)
 
 Utilizing the data from the above, we were able to generate a table showing a count of total employees eligible for retirement by department.
-(retire_by_title)
+
+![This is an image](https://github.com/KEGANCP/Pewlett-Hackard-Analysis/blob/main/Resources/retire_by_title.png)
 
 The below image will provide the code we utilized to gather our information necessary to identify those employees eligible for the new mentorship program.
-(mentor_code)
+
+![This is an image](https://github.com/KEGANCP/Pewlett-Hackard-Analysis/blob/main/Resources/mentor_code.png)
 
 Utilizing the above code, we were able to gather all the pertinent information in a table, as shown below.
-(mentor_table)
+
+![This is an image](https://github.com/KEGANCP/Pewlett-Hackard-Analysis/blob/main/Resources/mentor_table.png)
 
 ----
 ## Summary of Analysis
